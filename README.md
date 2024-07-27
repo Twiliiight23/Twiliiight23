@@ -44,7 +44,7 @@
 <a href="https://codepen.io/michaela-palapar-the-lessful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="michaela-palapar-the-lessful" height="30" width="40" /></a>
 <a href="https://twitter.com/itsmichaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmichaaaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michaela palapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaela palapar" height="30" width="40" /></a>
-<a href="https://fb.com/michaela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michaela" height="30" width="40" /></a>
+<a href="https://fb.com/mchlplpr23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michaela" height="30" width="40" /></a>
 <a href="https://instagram.com/micha_plpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="micha_plpr" height="30" width="40" /></a>
 </p>
 
