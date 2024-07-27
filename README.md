@@ -1,6 +1,6 @@
 [![Masterhead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)]
 <h1 align="center">Hi 👋, I'm Michaela</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/44/14/c9/4414c9246815b601e5bf47fe4f82a1c6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twiliiight23&label=Profile%20views&color=0e75b6&style=flat" alt="twiliiight23" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Online Booking System**
 
-- 🌱 I’m currently learning **Different Framewors**
+- 🌱 I’m currently learning **Different Frameworks**
 
 - 🤝 I’m looking for help with **Other programming languages**
 
