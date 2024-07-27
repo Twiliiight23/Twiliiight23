@@ -5,7 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twiliiight23&label=Profile%20views&color=0e75b6&style=flat" alt="twiliiight23" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itsmichaaaa" target="blank"><img src="https://img.shields.io/twitter/follow/itsmichaaaa?logo=twitter&style=for-the-badge" alt="itsmichaaaa" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/itsmichaaaa" target="blank" style="text-decoration: none;">
+    <img 
+      src="https://img.shields.io/twitter/follow/itsmichaaaa?logo=twitter&style=for-the-badge" 
+      alt="itsmichaaaa" 
+      style="
+        border: 2px solid #1DA1F2; 
+        border-radius: 8px; 
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+        background-color: #f4f4f9; 
+        padding: 5px;
+      "
+    />
+  </a> 
+</p>
+
+
 
 - 🔭 I’m currently working on **Online Booking System**
 
